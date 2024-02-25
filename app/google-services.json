@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "626365031982",
+    "firebase_url": "https://ipslogin-747e7.firebaseio.com",
+    "project_id": "ipslogin-747e7",
+    "storage_bucket": "ipslogin-747e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626365031982:android:1a58d20c0afc66b3",
+        "android_client_info": {
+          "package_name": "com.example.dell.intelligentparkingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626365031982-da7ls959upiter9vj2n3fo680ogbt2gn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALN_c1tz4pAi9vIbQ9HbOR6FhxLTJMit8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

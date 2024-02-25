@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IntelligentParkingSystem</string>
+    <string name="user">USER</string>
+    <string name="admin">ADMIN</string>
+    <string name="welcome">Welcome</string>
+    <string name="to">To</string>
+    <string name="IPS">Intelligent Parking System</string>
+    <string name="log_in">Log In</string>
+    <string name="user_login">USER LOGIN</string>
+    <string name="username">Username</string>
+    <string name="register_here">Register Here..</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="Conti">Register</string>
+    <string name="e_mail">E-mail</string>
+    <string name="phone_no">Phone No</string>
+    <string name="pswd">Password</string>
+</resources>
